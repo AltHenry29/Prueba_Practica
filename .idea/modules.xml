@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EPN_PLUS/EPN_PLUS.iml" filepath="$PROJECT_DIR$/EPN_PLUS/EPN_PLUS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Prueba_Practica.iml" filepath="$PROJECT_DIR$/.idea/Prueba_Practica.iml" />
+    </modules>
+  </component>
+</project>
