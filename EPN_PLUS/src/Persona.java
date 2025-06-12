@@ -9,7 +9,8 @@ public class Persona {
         this.telefono=telefono;
     }
 
-    public abstract void mostrarInformacion();
+    public void mostrarInformacion() {
+    }
 
     public String getNombre(){return nombre;}
     public int getEdad(){return edad;}

@@ -14,9 +14,6 @@ public class Curso extends Matricula {
         this.clases= new ArrayList<>();
     }
 
-    public String asignarDocente(Docente){
 
-
-    }
 
 }
